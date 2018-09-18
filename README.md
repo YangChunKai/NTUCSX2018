@@ -1,5 +1,5 @@
 # 107-1 Python_Project
-台大機械系系控組碩士班二年級 [楊鈞凱](https://github.com/YangChunKai/NTUCSX2018)
+台大機械系系控組碩士班二年級 楊鈞凱
 ### Reference
 - [資料科學程式設計GitBook](https://pecu.gitbooks.io/python_/content/)
 - [資料科學程式設計GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/)
