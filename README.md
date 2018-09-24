@@ -12,3 +12,7 @@
 4. 讀取 91app [資料集](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB)
 
 ## Week 2
+
+1. 爬取氣象資料（降雨量、溫度）https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp
+2. 將台北市購買數量與降雨量、溫度資料合併比較 [Orders_Climate.ipynb](https://github.com/YangChunKai/NTUCSX2018/blob/master/week2/Orders_Climate.ipynb)
+3. 比較各縣市薪資中位數對應人均購買力(消費總額/該縣市人口數) [Orders_City_Salary.ipynb](https://github.com/YangChunKai/NTUCSX2018/blob/master/week2/Orders_City_Salary.ipynb)
