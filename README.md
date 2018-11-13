@@ -42,4 +42,4 @@
 4. 大同公司財報文字探勘最終版[181002作業.ipynb](https://github.com/YangChunKai/NTUCSX2018/blob/master/week4/181002%E4%BD%9C%E6%A5%AD.ipynb)
 
 ## Week7
-[第五組ppt](https://drive.google.com/file/d/1X86IvjlM3n20-xtNE0nyC8C6VqUXr27Z/view?usp=sharing)
+[第五組ppt](https://docs.google.com/presentation/d/1Xekk7mJpm_4nJlwcQv2eBq0okF8QnMr6uVlE93PsHMc/edit?usp=sharing)
