@@ -41,3 +41,5 @@
 3. 蘋果新聞爬蟲-大同公司相關新聞的關鍵字搜尋function[News_大同公司.ipynb](https://github.com/YangChunKai/NTUCSX2018/blob/master/week4/News_%E5%A4%A7%E5%90%8C%E5%85%AC%E5%8F%B8.ipynb)
 4. 大同公司財報文字探勘最終版[181002作業.ipynb](https://github.com/YangChunKai/NTUCSX2018/blob/master/week4/181002%E4%BD%9C%E6%A5%AD.ipynb)
 
+## 2018/11/13
+[第五組ppt](https://drive.google.com/file/d/1X86IvjlM3n20-xtNE0nyC8C6VqUXr27Z/view?usp=sharing)
